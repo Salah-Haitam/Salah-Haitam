@@ -2,7 +2,7 @@
 
 🎓 AI & Data Science engineering student at **EMSI** (Casablanca)
 🔭 Passionate about **RAG**, **multi-agent systems** and full-stack development
-🔍 Looking for a **6-month end-of-studies internship (PFE)**
+
 
 ## 🌱 Currently working on
 
